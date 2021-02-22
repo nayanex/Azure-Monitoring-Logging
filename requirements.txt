@@ -1,3 +1,6 @@
 Flask
 python-dotenv
 yapf
+pylint
+isort
+pylint

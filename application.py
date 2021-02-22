@@ -1,5 +1,6 @@
 from os import environ
 from FlaskExercise import app
+from FlaskExercise import views
 
 if __name__ == '__main__':
     HOST = environ.get('SERVER_HOST', 'localhost')
